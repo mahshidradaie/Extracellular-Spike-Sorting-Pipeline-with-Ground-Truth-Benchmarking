@@ -1,0 +1,26 @@
+{
+  "noise_6uV": {
+    "mean_f1": 0.9634586825398141,
+    "clusters_found": [
+      4,
+      5,
+      4
+    ]
+  },
+  "noise_10uV": {
+    "mean_f1": 0.9239857375337781,
+    "clusters_found": [
+      3,
+      3,
+      3
+    ]
+  },
+  "noise_15uV": {
+    "mean_f1": 0.7516630674982988,
+    "clusters_found": [
+      2,
+      2,
+      3
+    ]
+  }
+}
